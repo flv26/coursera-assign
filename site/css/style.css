@@ -45,15 +45,15 @@
 }
 
 #title1 {
-    background-color: #D59898;
+    background-color: #2BBF9C;
 }
 
 #title2 {
-    background-color: #C14543;
+    background-color: #2BABBF;
 }
 
 #title3 {
-    background-color: #E5D198;
+    background-color: #C2E148;
 }
 
 @media (min-width: 992px) {
